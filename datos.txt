@@ -17,3 +17,10 @@ lo        Link encap:Local Loopback
           collisions:0 txqueuelen:0 
           RX bytes:32196 (32.1 KB)  TX bytes:32196 (32.1 KB)
 Hora 10:54
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Brian Alan Suarez
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.33
+Hora 11:11
+
