@@ -7,3 +7,5 @@ un repositorio local.
 b) Beta y Gamma ven los el archivo añadido en su repositorio local cuando pullean.
 c) Los demas integrantes pueden ver el archivo si Beta commitea y pushea este nuevo archivo al repositorio.
 d) Nos comunicamos por voz a traves de discord y textualmente a traves de la funcion de Project de GitHub.
+e) GitHub tiene muchas herramientas para comunicarse entre colaboradores, desde Issues para problemas encontrados en el codigo, Project para organizacion
+de tareas
