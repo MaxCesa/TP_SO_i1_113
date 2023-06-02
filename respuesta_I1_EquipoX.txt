@@ -5,3 +5,5 @@ Suarez, Brian Alan
 a) Alfa ve los cambios en su repositorio remoto, pero si no pullea no ve los cambios en su repositorio local. En nuestro caso, Alfa no los ve porque no clono
 un repositorio local.
 b) Beta y Gamma ven los el archivo añadido en su repositorio local cuando pullean.
+c) Los demas integrantes pueden ver el archivo si Beta commitea y pushea este nuevo archivo al repositorio.
+d) Nos comunicamos por voz a traves de discord y textualmente a traves de la funcion de Project de GitHub.
