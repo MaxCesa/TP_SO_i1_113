@@ -1,0 +1,7 @@
+Cesa, Maximiliano Jose
+Torrez, Leandro Emanuel
+Suarez, Brian Alan
+
+a) Alfa ve los cambios en su repositorio remoto, pero si no pullea no ve los cambios en su repositorio local. En nuestro caso, Alfa no los ve porque no clono
+un repositorio local.
+b) Beta y Gamma ven los el archivo añadido en su repositorio local cuando pullean.
