@@ -1,1 +1,19 @@
+Leandro Emanuel Torrez 
+eth0      Link encap:Ethernet  HWaddr 08:00:27:c4:9c:80  
+          inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0
+          inet6 addr: fe80::a00:27ff:fec4:9c80/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:28 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:139 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3692 (3.6 KB)  TX bytes:21251 (21.2 KB)
 
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:318 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:318 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:32196 (32.1 KB)  TX bytes:32196 (32.1 KB)
+Hora 10:54
